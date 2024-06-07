@@ -1,0 +1,16 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/SaahilNotSahil/iitj-autoproxy/releases/download/0.1.2/iitj-autoproxy_0.1.2_windows_amd64.zip",
+            "bin": [
+                "bin/autoproxy.exe",
+                "bin/autoproxyd.exe"
+            ],
+            "hash": "e43ae239806e62e68e22d41b0405e948562dac4a3b4880ca94a5106bd6de00c8"
+        }
+    },
+    "homepage": "https://github.com/SaahilNotSahil/iitj-autoproxy",
+    "license": "MIT",
+    "description": "A CLI tool to automatically login to IIT Jodhpur's network firewall."
+}
